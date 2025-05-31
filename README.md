@@ -1,2 +1,1 @@
-# Python-RNG
-Made by Aju.
+Run this in Python duh.
